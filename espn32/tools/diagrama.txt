@@ -4,6 +4,10 @@ Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme 
 Crystal is 40MHz
 MAC: f0:24:f9:5a:bb:70
 
+fritzing-0.9.5.linux.AMD64
+thoony
+
+
   +--------------------------+
   | 1    EN           38  IO23 |
   | 2    3V3          37  IO22 |
